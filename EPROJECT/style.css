@@ -1,0 +1,799 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container-fluid{
+    height: auto;
+    width: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.sec-01{
+    height: auto;
+    width: auto;
+    background-color: black;
+}
+
+.navbar{
+    height: auto;
+    width: auto;
+    background-color: black;
+}
+.navbar-toggler{
+    height: auto;
+    width: auto;
+}
+.navbar-brand img{
+    margin-left:30px;
+}
+.navbar button{
+    height: auto;
+    width: auto;
+    background-color: white;
+    margin-right: 50px;
+    margin-top: 150px;
+}
+.collapse{
+    height: auto;
+    width: auto;
+    text-align: left;
+    margin-top: 150px;
+    background-color: white;
+}
+.collapse ul li{
+    height: auto;
+    width: auto;
+    color: black;
+    margin-left: 5px;
+}
+.nav-item a{
+    height: auto;
+    width: auto;
+    color: black;
+    font-size: 11px;
+    font-weight: 900;
+}
+.nav-link{
+    height: auto;
+    width: auto;
+    color: black;
+}
+.nav-link:hover{
+    height: auto;
+    width: auto;
+    text-decoration: underline;
+    text-decoration-color: black;
+    color: black;
+}
+
+.dropdown-menu a{
+    height: auto;
+    width: auto;
+    text-align: right;
+    width: 120px;
+    background-color: white;
+    margin-left: 20px;
+}
+.dropdown-menu a:hover{
+    height: auto;
+    width: auto;
+    text-align: left;
+    margin-left: -20px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.dropdown-item active{
+    text-align: right;
+    margin-left: -20px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.sec-01video{
+
+}
+.sec-01picture{
+    height: 400px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-02{
+    width: auto;
+    height: auto;
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.row{
+    height: auto;
+    width: auto;
+    gap:  130px;
+    display: flex;
+
+}
+.col .content-left{
+    height: auto;
+    width: auto;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right:20px ;
+    padding-bottom: 20px;
+
+}
+.content-left h2{
+    height: auto;
+    width: auto;
+ font-size: 45px;
+ font-weight: 600;
+}
+.content-left h2 span{
+    height: auto;
+    width: auto;
+    font-size: 50px;
+    font-weight: 900;
+    color: gray ;
+}
+
+.content-left h3{
+    height: auto;
+    width: auto;
+    font-size: 20px;
+}
+.content-left p{
+    height: auto;
+    width: auto;
+    font-size: 14px;
+    color: grey;
+}
+.col .content-right{
+    height: auto;
+    width: auto;
+    border-left: 0.1px solid grey;
+    position: relative;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-right: ;
+    padding-bottom: 30px;
+}
+.content-right h2{
+    height: auto;
+    width: auto;
+    font-size: 50px;
+    font-weight: 900;
+}
+.content-right .points-list{
+    height: auto;
+    width: auto;
+    font-size: 18px;
+    padding-top: 100px;
+    margin-left: -20px;
+
+}
+.points-list ul li{
+       cursor: pointer;
+       color: grey;   
+}
+.points-list ul li:hover{
+    color: black;
+}
+.sec-02picture{
+    height: 200px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.sec-03{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.col .content-01 img{
+    width: 100px;
+    height: 100px;
+}
+.content-01-img-01{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col .content-02 img{
+    width: 100px;
+    height: 100px;
+
+}
+.content-02-img-01{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col .content-03 img{
+    width: 100px;
+    height: 100px;
+    
+
+}
+.content-03-img-01{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-body{
+    border: none;
+}
+.card-body h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+.card-body h3{
+    color: grey;
+    font-size: 20px;
+    font-weight: 600;
+}
+.card-body p{
+    color: gray;
+    font-size: 15px;
+
+}
+.sec-03picture{
+    height: 100px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-04{
+    width: auto;
+    height: auto;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec-04 .row{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.sec-04 .row .col{
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec-04 .row .col img a :hover{
+    cursor: pointer;
+}
+.sec-04picture{
+    height: 50px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-05{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: auto;
+    width: auto;
+    background-color: white;
+}
+.sec-05 .col{
+    padding-top: 10px;
+}
+.sec-05 .col h2{
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.sec-05 .pages {
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.pages ul li{
+    padding-right: 10px;
+    padding-top: 10px;
+    list-style: none;
+}
+.pages ul li a{
+    text-align: left;
+    text-decoration: none;
+    color: gray;
+
+}
+.pages ul li a:hover{
+    color: black;
+    font-size: 15px;
+}
+.pages ul li a i{
+    font-size: 25px;
+}
+.sec-05picture{
+    height: 20px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-06{
+    padding-top: 10px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.sec-06 .copyright p{
+    cursor: pointer;
+    text-align: center;
+    height: auto;
+    width: auto;
+    color: white;
+}
+.sec-06 .copyright p span{
+    font-size: 20px;
+    color: grey;
+}
+.sec-07 content{
+    padding-top: 30px;
+    padding-bottom:30px ;
+    height: auto;
+    width: auto;
+}
+.sec-07 .content h1{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 100px;
+    padding-bottom:40px ;
+}
+.sec-07picture{
+    height: 30px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-07-02 .content .row .col{
+    width: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: left;
+}
+.sec-07 p{
+    text-align: center;
+    color: gray;
+    font-size: 13px;
+}
+.sec-07-02 .content .row .col i{
+    margin-top: 20px;
+    font-size: 100px;
+}
+.sec-07-02.content .row .col h2{
+    padding-top: 10px;
+    font-size: 50px;
+}
+.sec-07-02.content .row .col p{
+    font-size: 13px;
+    color: gray;
+
+}
+.sec-08 .content h1{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 80px;
+    padding-bottom:40px ;
+}
+.sec-08picture{
+    height: 30px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-08 .content .row .col{
+    width: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: left;
+}
+.sec-08 .content #row{
+    margin-top: 50px;
+ 
+}
+.sec-08 .content .row .col img{
+    padding-top: 20px;
+}
+.sec-08 .content .row .col h2{
+    padding-top: 10px;
+    font-size: 50px;
+}
+.sec-08 .content .row .col h2 a{
+    text-decoration: none;
+    padding-top: 10px;
+    font-size: 50px;
+    color: black;
+}
+.sec-08 .content .row .col h2 a:hover{
+    font-size: 60px;
+    text-decoration: underline;
+}
+.sec-08 .content .row .col p{
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+    padding-bottom: 20px;
+
+}
+.sec-9{
+    text-align: center;
+    margin-top: 50px;
+ 
+}
+.sec-09 .content h1{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 45px;
+    padding-bottom:20px ;
+}
+.sec-09picture{
+    height: 30px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-09 .content p{
+    text-align: center;
+    padding-top: 30PX;
+    color: gray;
+    font-size: 13px;
+}
+.sec-09 .content .row .col{
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right:30px ;
+    border: 10px double black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.sec-09 .content #row1{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.sec-09 .content #row2{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.sec-09 .content #row3{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.sec-09 .content .row .col img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sec-09 .content .row .col h2{
+    color: black;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.sec-09 .content .row .col h6{
+    font-size: 10px;
+    color: gray;
+}
+.sec-09 .content .row .col button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: 1px ridge white;
+    
+}
+.sec-09 .content .row .col button:hover{
+    background-color: white;
+    color: black;
+    border: 1px ridge black;
+}
+
+
+/* model css start*/
+.modal-dialog .modal-content{
+    background-color: black;
+}
+.modal-header h5{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+}
+.modal-header button{
+    background-color: white;
+    color: white;
+}
+.modal-body{
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.modal-body h2 i{
+    margin-top: 20px;
+}
+.modal-footer{
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+.modal-footer button{
+    background-color: black;
+    color: white;
+    width: 110px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: 1px ridge white;
+}
+.modal-footer button:hover{
+    background-color: white;
+    color: black;
+    border: 1px ridge black;
+}
+.spacifications li{
+    list-style: none;
+    text-decoration: none;
+}
+/* modal css end */
+
+
+.sec-10picture{
+    height: 30px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-10 .content{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.sec-10 .content h1{
+    padding-top: 30px;
+    font-size:60px ;
+}
+.sec-10 .content h2{
+    padding-top: 60px;
+    font-size:40px ;
+}
+.sec-10 .content p{
+    text-align: center;
+    color: gray;
+    font-size: 13px;
+}
+.sec-10 .content .row .col{
+    width: auto;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right:30px ;
+    border: 10px double black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.sec-10 .content .row .col img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sec-10 .content .row .col h2{
+    color: black;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.sec-10 .content .row .col h6{
+    font-size: 10px;
+    color: gray;
+}
+.sec-10 .content .row .col button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: 1px ridge white;
+    
+}
+.sec-10 .content .row .col button:hover{
+    background-color: white;
+    color: black;
+    border: 1px ridge black;
+}
+
+.sec-11picture{
+    height: 30px;
+    width: auto;
+    background-image: url("𝐈𝐦𝐚𝐠𝐞𝐬\ &\ 𝐕𝐢𝐝𝐞𝐨𝐬/cosy2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec-11 .content h1{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 70px;
+    padding-bottom:40px ;
+}
+.sec-11 .content P{
+    text-align: center;
+    color: grey;
+}
+.sec-11-02 .content .row .col{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+}
+.sec-11-02 .content .row .col a{
+    text-decoration: none;
+    font-size: 20px;
+    color: gray;
+}
+.sec-11-02 .content .row .col a:hover{
+        color: black;
+}
+
+.sec-11-02 .content .row .col form{
+    background-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.sec-11-02 .form h2{
+    font-size: ;
+    color: white;
+}
+.sec-11-02 .form h6{
+    color: white;
+}
+.sec-11-02 .form input{
+    width: 300px;
+}
+.sec-11-02 .form .dot{
+    width: auto;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.sec-11-02 .form .button{
+    background-color: black;
+    color: white;
+    width: 110px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: 1px ridge white;
+}
+.sec-11-02 .form .button:hover{
+    background-color: white;
+    color: black;
+    border: 1px ridge black;
+}
+
+.sec-11-02.content .row .col h2{
+    padding-top: 60px;
+    font-size: 40px;
+    font-weight: 600px;
+}
+.sec-11-02 .content .row .col h6{
+    font-size: 20px;
+    font-weight: 600px;
+}
+.sec-11-02 .content .row .col p{
+    padding-right: 100px;
+    color: grey;
+    font-size: 20px;
+    font-weight: 600px;
+}
+.sec-11-03 .container .content .row .map{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.sec-13 .content h2{
+    text-align: center;
+    font-size: 60px;
+}
+.sec-13 .content p{
+    color: gray;
+    text-align: center;
+    font-size: 13px;
+}
+.sec-13{
+    justify-content: center;
+    align-items: center;
+}
+.sec-13 .sites ul li{
+    margin-top: 30px;
+    margin-bottom:30px ;
+    list-style: ;
+}
+.sec-13 .sites a{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+.sec-13 .sites a:hover{
+    color: grey;
+    text-decoration: none;
+    font-size: 32px
+}
+.sec12 .content h2{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom:40px ;
+
+}
+.sec12 .content h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+.sec12 .content p{
+    color: grey;
+    text-align: center;
+}
+.sec12 .content .row .col label{
+    background-color: aqua;
+    margin-top: 30px;
+}
+.sec12 .content .row .col{
+    border: 10px double black;
+    margin-top: 30px;
+    margin-bottom:30px ;
+}
+.sec12 .content .row .col .form-group label{
+    background-color: white;
+    color: black;
+    font-size: 40px;
+    border: none;
+}
+.sec12 .content .row .col .form-group .card .card-body p{
+color: grey;
+}
